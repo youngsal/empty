@@ -31,19 +31,28 @@ export default function Home() {
         </h1> */}
       {/* </div> */}
       
-      <div className="grid grid-flow-row-dense grid-cols-3 grid-rows-3 gap-4 text-center text-white">
-        <div className="col-span-2 p-6 bg-blue-400 rounded-lg">01</div>
-        <div className="col-span-2 p-6 bg-blue-400 rounded-lg">02</div>
-        <div className="p-6 bg-blue-400 rounded-lg">03</div>
-        <div className="p-6 bg-blue-400 rounded-lg">04</div>
-        <div className="p-6 bg-blue-400 rounded-lg">05</div>
-        <div className="col-span-2 p-6 bg-blue-400 rounded-lg">06</div>
-        <div className="p-6 bg-blue-400 rounded-lg">07</div>
-        <div className="p-6 bg-blue-400 rounded-lg">08</div>
-        <div className="p-6 bg-blue-400 rounded-lg">09</div>
-        <div className="col-span-2 p-6 bg-blue-400 rounded-lg">10</div>
-        <div className="p-6 bg-blue-400 rounded-lg">11</div>
-        <div className="p-6 bg-blue-400 rounded-lg">12</div>
+      <div className="h-screen text-white bg-slate-900 parent">
+          <div className="container px-2">
+              {/* <img src="https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=800" alt="images" className="float-left w-60"/> */}
+              <p className="">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum asperiores ratione nemo dignissimos odit quae praesentium quibusdam rerum nulla. Nisi, laudantium? Sunt maxime officiis hic rerum aut, non quidem laudantium.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum asperiores ratione nemo dignissimos odit quae praesentium quibusdam rerum nulla. Nisi, laudantium? Sunt maxime officiis hic rerum aut, non quidem laudantium.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum asperiores ratione nemo dignissimos odit quae praesentium quibusdam rerum nulla. Nisi, laudantium? Sunt maxime officiis hic rerum aut, non quidem laudantium.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum asperiores ratione nemo dignissimos odit quae praesentium quibusdam rerum nulla. Nisi, laudantium? Sunt maxime officiis hic rerum aut, non quidem laudantium.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum asperiores ratione nemo dignissimos odit quae praesentium quibusdam rerum nulla. Nisi, laudantium? Sunt maxime officiis hic rerum aut, non quidem laudantium.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum asperiores ratione nemo dignissimos odit quae praesentium quibusdam rerum nulla. Nisi, laudantium? Sunt maxime officiis hic rerum aut, non quidem laudantium.
+              </p>
+          </div>
       </div>
     </div>
   )
