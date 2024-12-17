@@ -31,19 +31,19 @@ export default function Home() {
         </h1> */}
       {/* </div> */}
       
-      <div className="grid grid-flow-row-dense grid-rows-4 gap-4 text-center text-white">
-        <div className="row-span-4 p-6 bg-yellow-700 rounded-lg">01</div>
-        <div className="p-6 bg-blue-700 rounded-lg">02</div>
-        <div className="row-start-2 row-end-4 p-6 bg-purple-700 rounded-lg">03</div>
-        <div className="col-span-2 p-6 bg-red-700 rounded-lg">04</div>
-        <div className="p-6 bg-green-700 rounded-lg">05</div>
-        <div className="p-6 bg-pink-400 rounded-lg">06</div>
-        <div className="row-span-3 p-6 bg-purple-300 rounded-lg">07</div>
-        <div className="p-6 bg-blue-200 rounded-lg">08</div>
-        <div className="p-6 bg-purple-700 rounded-lg">09</div>
-        <div className="row-span-2 p-6 rounded-lg bg-lime-700">10</div>
-        <div className="p-6 bg-orange-700 rounded-lg">11</div>
-        <div className="row-span-4 p-6 bg-pink-700 rounded-lg">12</div>
+      <div className="grid grid-flow-row-dense grid-cols-3 grid-rows-3 gap-4 text-center text-white">
+        <div className="col-span-2 p-6 bg-blue-400 rounded-lg">01</div>
+        <div className="col-span-2 p-6 bg-blue-400 rounded-lg">02</div>
+        <div className="p-6 bg-blue-400 rounded-lg">03</div>
+        <div className="p-6 bg-blue-400 rounded-lg">04</div>
+        <div className="p-6 bg-blue-400 rounded-lg">05</div>
+        <div className="col-span-2 p-6 bg-blue-400 rounded-lg">06</div>
+        <div className="p-6 bg-blue-400 rounded-lg">07</div>
+        <div className="p-6 bg-blue-400 rounded-lg">08</div>
+        <div className="p-6 bg-blue-400 rounded-lg">09</div>
+        <div className="col-span-2 p-6 bg-blue-400 rounded-lg">10</div>
+        <div className="p-6 bg-blue-400 rounded-lg">11</div>
+        <div className="p-6 bg-blue-400 rounded-lg">12</div>
       </div>
     </div>
   )
