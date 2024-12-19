@@ -36,7 +36,7 @@ export default function Home() {
           <input type="email" placeholder="E-mail" disabled /><br />
           <input type="date" /><br />
           <div className="check-double">
-          <input type="checkbox" id="checkbox" />
+            <input type="checkbox" id="checkbox" />
             <label htmlFor="checkbox">Checkbox</label><br />
           </div>
           <select name="option" id="option" className="my-2">

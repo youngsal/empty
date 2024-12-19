@@ -20,7 +20,7 @@
   }
 
   a {
-    @apply text-blue-500 underline;
+    @apply text-blue-500 underline hover:text-yellow-400;
   }
   
   button {
@@ -44,6 +44,18 @@
   }
 
   .check-double {
-    @apply flex gap-1 checked:bg-red-700;
+    @apply flex gap-1 items-center;
+  }
+
+  input[type="checkbox"] {
+    @apply accent-yellow-500;
+  }
+
+  select {
+    @apply border border-slate-700;
+  }
+
+  label {
+    @apply text-sm;
   }
 }
