@@ -76,7 +76,7 @@ s
           <p>This is a paragraph</p>
           <a href="#">This is a anchor</a><br />
 s
-          {/* <button>This is a secondary button</button><br />
+          <button>This is a secondary button</button><br />
           <button className="btn2">This is a primary button</button><br />
           <button className="btn3" disabled>This is a disabled button</button><br />
 
@@ -91,13 +91,13 @@ s
             <option value="1">Option 1</option>
             <option value="1">Option 2</option>
             <option value="1">Option 3</option>
-          </select> */}
-          <h1>This is a title</h1>
+          </select>
+          {/* <h1>This is a title</h1>
           <h2>This is a subtitle</h2>
           <p>This is a paragraph</p>
           <h2>This is a paragraph2</h2>
           <h1>This is a title</h1>
-          <h2>This is a subtitle</h2>
+          <h2>This is a subtitle</h2> */}
         </div>
     </div>
   )
