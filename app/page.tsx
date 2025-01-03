@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div className="h-screen text-white bg-white">
-      <div className="flex flex-col-reverse justify-center h-screen text-white divide-y divide-y-reverse bg-slate-900">
+      {/* <div className="flex flex-col-reverse justify-center h-screen text-white divide-y divide-y-reverse bg-slate-900">
           <div className="p-4">01</div>
           <div className="p-4">02</div>
           <div className="p-4">03</div>
@@ -20,7 +20,7 @@ export default function Home() {
           <button className="p-2 text-white delay-500 bg-blue-700 border rounded-lg opacity-100 animate-bounce hover:-translate-y-1 hover:duration-700 easy-in-out ring-offset-2 ring-blue-300 focus:ring-2">
             Save Changes
           </button>
-        </div>
+        </div> */}
 
         <div className="text-black border-black border-3">
           <h1>This is a title</h1>
