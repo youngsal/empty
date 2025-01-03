@@ -76,7 +76,7 @@ s
           <p>This is a paragraph</p>
           <a href="#">This is a anchor</a><br />
 s
-          <button>This is a secondary button</button><br />
+          {/* <button>This is a secondary button</button><br />
           <button className="btn2">This is a primary button</button><br />
           <button className="btn3" disabled>This is a disabled button</button><br />
 
@@ -87,7 +87,7 @@ s
             <input type="checkbox" id="checkbox" />
             <label htmlFor="checkbox">Checkbox</label><br />
           </div>
-          {/* <select name="option" id="option" className="my-2">
+          <select name="option" id="option" className="my-2">
             <option value="1">Option 1</option>
             <option value="1">Option 2</option>
             <option value="1">Option 3</option>
