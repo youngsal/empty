@@ -51,7 +51,7 @@ s
           <h1>This is a title</h1>
           <h2>This is a subtitle</h2>
         </div>
-      <div className="flex flex-col-reverse justify-center h-screen text-white divide-y divide-y-reverse bg-slate-900">
+      {/* <div className="flex flex-col-reverse justify-center h-screen text-white divide-y divide-y-reverse bg-slate-900">
           <div className="p-4">01</div>
           <div className="p-4">02</div>
           <div className="p-4">03</div>
@@ -98,7 +98,7 @@ s
           <h2>This is a paragraph2</h2>
           <h1>This is a title</h1>
           <h2>This is a subtitle</h2>
-        </div>
+        </div> */}
     </div>
   )
 }
